@@ -4,50 +4,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personal My Photo Gallery - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      padding: 20px;
-    }
-
-    h1, h2 {
-      color: #333;
-    }
-
-    h1 {
-      font-size: 36px;
-      margin-bottom: 20px;
-    }
-
-    h2 {
-      font-size: 24px;
-      margin-top: 30px;
-      margin-bottom: 10px;
-    }
-
-    p {
-      font-size: 16px;
-      line-height: 1.5;
-      margin-bottom: 15px;
-    }
-
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
-  <h1>Personal My Photo Gallery</h1>
+  <h1>My Photo Gallery</h1>
 
   <h2>Description</h2>
-  <p>This is a simple personal photo gallery project that allows you to organize and showcase your photos in an aesthetically pleasing manner.</p>
+  <p>This is a simple personal photo gallery project that allows you to organize and showcase your photos in an aesthetically pleasing manner.In this, I have used HTML and CSS only. It is a simple website just for practice.</p>
 
   <h2>Features</h2>
   <ul>
